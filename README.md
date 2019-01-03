@@ -1,3 +1,7 @@
+### 运行
+
+首先要MongoDB在27017端口已经运行
+
 ```
 cd server
 npm init 
